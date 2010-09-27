@@ -1,0 +1,46 @@
+A small script to automatically subscribe and unsubscribe to a more "tasteful" set of subreddits than the defaults.
+
+Subscribes to:
+--------------
+
+humor
+offbeat
+
+worldnews
+news
+
+hardware
+computing
+netsec
+buildapc
+
+listentothis
+radioreddit
+
+tldr
+
+depthhub
+foodforthought
+criticism
+designthought
+truereddit
+
+favors
+iwanttolearn
+bestof
+worstof
+
+
+Unsubscribes from:
+------------------
+reddit.com
+
+pics
+wtf
+funny
+
+science
+atheism
+politics
+
+technology
