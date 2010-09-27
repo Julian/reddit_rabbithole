@@ -1,5 +1,7 @@
 A small script to automatically subscribe and unsubscribe to a more "tasteful" set of subreddits than the defaults.
 
+This script requires the reddit_api module. Check my github. If my fork is more recent than mellort's, you may want to use mine. In addition, because you *will need to login* with this script, you *should not* trust me. Go look at the login code from the reddit_api module so you're sure that no one (i.e. me) is doing anything funny with your login credentials, and if you don't feel comfortable find a way to make yourself comfortable :).
+
 Subscribes to:
 --------------
 
