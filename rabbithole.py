@@ -19,9 +19,9 @@ def main():
     r.login()
 
     for subreddit in unsubscribe:
-        r.get_subreddit(subreddit).unsubscribe()
+        r.get_subreddit(subreddit, fetch=False).unsubscribe()
     for subreddit in subscribe:
-        r.get_subreddit(subreddit).subscribe()
+        r.get_subreddit(subreddit, fetch=False).subscribe()
 
 if __name__ == "__main__":
     main()
